@@ -1,7 +1,6 @@
 kind: Service
 apiVersion: v1
 metadata:
-  creationTimestamp: null
   labels:
     app: train-schedule
   name: train-schedule-service
